@@ -1,7 +1,7 @@
 # DNA-Sequence-Alignment
 Perl Implementation of a three different techniques for DNA sequence alignment to calculate similarity between 2 DNA sequences
 
-In *Bioinformatics* there are a technique called [sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment) 
+In **Bioinformatics** there are a technique called [sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment) 
 It is a way of arranging the sequences of DNA, RNA, or protein to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between the sequences.
 
 ## Example:
@@ -84,10 +84,10 @@ CAGCG-T-GG
 
 # Notes on these results: 
 
-⋅⋅* Semi Global Alignment is always better than Global Alignment.
+* Semi Global Alignment is always better than Global Alignment.
 
-⋅⋅* Local Alignment is always better than the Global Alignment and maybe equal to the scores in the semi global Alignment.
+* Local Alignment is always better than the Global Alignment and maybe equal to the scores in the semi global Alignment.
 
-⋅⋅* The semi-global alignment algorithm was able to detect better than the global alignment algorithm.
+* The semi-global alignment algorithm was able to detect better than the global alignment algorithm.
 
-⋅⋅* The local alignment algorithm was able to detect region(s) of similarity that were overlooked by the global alignment.
+* The local alignment algorithm was able to detect region(s) of similarity that were overlooked by the global alignment.
