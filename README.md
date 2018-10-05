@@ -1,5 +1,5 @@
 # DNA-Sequence-Alignment
-Perl Implementation of a three different techniques for DNA sequence alignment to calculate similarity between 2 DNA sequences
+Perl Implementation of a three different techniques for DNA or Protein sequence alignment to calculate similarity between 2 or more sequences by searching for a series of individual characters that are in the same order in the sequences. 
 
 In **Bioinformatics** there are a technique called [sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment) 
 It is a way of arranging the sequences of DNA, RNA, or protein to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between the sequences.
